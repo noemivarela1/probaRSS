@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Feeds de programadora</title>
+<link>https://noemivarela1.github.io/probaRSS/</link>
+<description>Descrición do meu RSS</description>
+<atom:link href="https://noemivarela1.github.io/probaRSS/rss.xml" rel="self" type="application/rss+xml" />
+<lastBuildDate>Sun, 25 Apr 2021 14:00:00 +0200</lastBuildDate>
+<language>gl-gl</language>
+<image>
+	<link>https://noemivarela1.github.io/probaRSS/</link>
+	<title>Feeds de programadora</title>
+	<url>https://noemivarela1.github.io/probaRSS/programadora.gif</url>
+	<description>Programadora</description>
+	<height>96</height>
+	<width>96</width>
+</image>
+<item>
+<title>Acepta el reto</title>
+<link>https://www.aceptaelreto.com/</link>
+<guid>https://www.aceptaelreto.com/</guid>
+<pubDate>Sun, 25 Apr 2021 14:00:00 +0200</pubDate>
+<description><![CDATA[ Acepta el reto - Programación. ]]></description>
+</item>
+<item>
+<title>Profesorado na consellería de educación</title>
+<link>http://www.edu.xunta.gal/portal/profesorado</link>
+<guid>http://www.edu.xunta.gal/portal/profesorado</guid>
+<pubDate>Sun, 25 Apr 2021 13:00:00 +0200</pubDate>
+<description><![CDATA[ Profesorado no portal da Consellería de Eduación. ]]></description>
+</item>
+<item>
+<title>Familias na consellería de educación</title>
+<link>http://www.edu.xunta.gal/portal/familias</link>
+<guid>http://www.edu.xunta.gal/portal/familias</guid>
+<pubDate>Sun, 25 Apr 2021 12:00:00 +0200</pubDate>
+<description><![CDATA[ Familias no portal da Consellería de Eduación. ]]></description>
+</item>
+</channel>
+</rss>
