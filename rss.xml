@@ -14,6 +14,13 @@
 	<description>Programadora</description>
 </image>
 <item>
+<title>Validación RSS</title>
+<link>https://validator.w3.org/feed/#validate_by_input</link>
+<guid>https://validator.w3.org/feed/#validate_by_input</guid>
+<pubDate>Sun, 25 Apr 2021 18:30:00 +0200</pubDate>
+<description><![CDATA[ Validador RSS. ]]></description>
+</item>
+<item>
 <title>Programame</title>
 <link>http://www.programa-me.com/2021/nac/</link>
 <guid>http://www.programa-me.com/2021/nac/</guid>
