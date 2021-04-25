@@ -13,6 +13,13 @@
 	<url>https://noemivarela1.github.io/probaRSS/programadora.png</url>
 	<description>Programadora</description>
 </image>
+	<item>
+<title>Creación manual de  RSS</title>
+<link>https://cects.com/manual-creation-of-rss-2-0-feeds-for-web-sites/</link>
+<guid>https://cects.com/manual-creation-of-rss-2-0-feeds-for-web-sites/</guid>
+<pubDate>Sun, 25 Apr 2021 19:00:00 +0200</pubDate>
+<description><![CDATA[ Creación manual de RSS. ]]></description>
+</item>
 <item>
 <title>Validación RSS</title>
 <link>https://validator.w3.org/feed/#validate_by_input</link>
